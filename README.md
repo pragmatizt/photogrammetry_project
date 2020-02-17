@@ -15,3 +15,7 @@ Hardware:
 
 Software: 
 - AgiSoft Photoscan (standard edition price: $179)
+
+### YouTube Playlist: Photogrammetry 
+A collection of 14 YouTube videos on a variety of topics pertaining to photogrammetry
+Link: https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1
