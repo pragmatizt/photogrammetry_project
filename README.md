@@ -1,8 +1,6 @@
 # photogrammetry_project
 Utilizing photogrammetry to map coral reef health in South Florida
 
-This will be a repository for the photogrammetry mapping I will be doing in reef systems around South Florida.
-
 # Phases:
 
 ## 1) Research: 
